@@ -17,9 +17,9 @@
 ```javascript
 const tanmay = {
     location: "Aurangabad, Maharashtra, India 🇮🇳",
-    education: "Computer Science @ MIT Aurangabad",
+    education: "AI & DS @ Dy Patil Collage Of Engineering Akurdi",
     currentFocus: "Building amazing web experiences",
-    interests: ["Web Development", "MERN Stack", "Computer Vision"],
+    interests: ["Backend Developer", "MERN Stack", "Dev_Ops"],
     funFact: "I think I'm funny AND a passionate developer! 😄",
     motto: "Code, Create, Innovate! ✨"
 };
@@ -27,10 +27,10 @@ const tanmay = {
 
 ### 🎯 Current Journey
 - 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Node.js** and exploring **advanced React patterns**
-- 💡 Interested in **Web Development**, **MERN Stack**, and **Computer Vision**
+- 🌱 Learning **Core Backend** and exploring **advanced Backend Infrastructure**
+- 💡 Interested in **Backend**, **System Infrastructure**, and **Dev Ops**
 - 🤝 Looking to collaborate on **innovative web projects**
-- 💬 Ask me about **React, JavaScript, MongoDB, Express**
+- 💬 Ask me about **Only Backend Nothing More**
 - 📫 Reach me at **tanmayjoshi072@gmail.com**
 
 ---
