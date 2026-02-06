@@ -16,7 +16,7 @@
 
 ```javascript
 const tanmay = {
-    location: "Aurangabad, Maharashtra, India 🇮🇳",
+    location: "Chh Sambhajinagar, Maharashtra, India 🇮🇳",
     education: "AI & DS @ Dy Patil Collage Of Engineering Akurdi",
     currentFocus: "Building amazing web experiences",
     interests: ["Backend Developer", "MERN Stack", "Dev_Ops"],
