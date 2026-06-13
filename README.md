@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Tanmay Joshi
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey, I'm Tanmay Joshi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Enthusiast;Computer+Vision+Explorer;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Node.js+%7C+NestJS+%7C+TypeScript;Microservices+%26+Distributed+Systems;Building+Scalable+Infrastructure" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,22 +16,28 @@
 
 ```javascript
 const tanmay = {
-    location: "Chh Sambhajinagar, Maharashtra, India 🇮🇳",
-    education: "AI & DS @ Dy Patil Collage Of Engineering Akurdi",
-    currentFocus: "Building amazing web experiences",
-    interests: ["Backend Developer", "MERN Stack", "Dev_Ops"],
-    funFact: "I think I'm funny AND a passionate developer! 😄",
-    motto: "Code, Create, Innovate! ✨"
+  location    : "Chh Sambhajinagar, Maharashtra, India 🇮🇳",
+  education   : "AI & DS @ Dr. D.Y. Patil College of Engineering, Akurdi",
+  currentFocus: "Scalable backend systems & distributed architecture",
+  expertise   : ["Node.js", "NestJS", "PostgreSQL", "Redis", "Kafka"],
+  interests   : ["Microservices", "System Design", "DevOps", "Cloud Infra"],
+  funFact     : "I speak fluent HTTP, REST, and occasional sarcasm 😄",
+  motto       : "Build it right. Scale it further. Ship it fast. 🚀"
 };
 ```
 
+---
+
 ### 🎯 Current Journey
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Core Backend** and exploring **advanced Backend Infrastructure**
-- 💡 Interested in **Backend**, **System Infrastructure**, and **Dev Ops**
-- 🤝 Looking to collaborate on **innovative web projects**
-- 💬 Ask me about **Only Backend Nothing More**
-- 📫 Reach me at **tanmayjoshi072@gmail.com**
+
+| | |
+|---|---|
+| 🔭 **Building** | Production-grade microservices with NestJS & Node.js |
+| 🌱 **Exploring** | Advanced system design, Kafka event streams & K8s orchestration |
+| 💡 **Focused on** | Backend architecture, database optimization & DevOps pipelines |
+| 🤝 **Open to** | Backend & infra collaborations — the more complex, the better |
+| 💬 **Ask me about** | Backend. Only backend. Nothing more. |
+| 📫 **Reach me** | tanmayjoshi072@gmail.com |
 
 ---
 
